@@ -1,2 +1,2 @@
-# booksmemory
+# BooksMemory
 Web service to fetch information about books by ISBN, search...
