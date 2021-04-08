@@ -8,6 +8,8 @@ Web service with a complete dabatase of books to fetch information about them by
 
 *Project WIP : The project is currently in development and is only used by [MyBooksMemory](https://github.com/InnovA2/mybooksmemory). It will soon be open to the public.*
 
+> **Note: BooksMemory** is a project carried out in a private repository on Gitlab.
+
 - [Modules](#gear-modules)
   - [BooksMemoryApi](#booksmemoryapi)
   - [BooksMemoryFront](#booksmemoryfront)
