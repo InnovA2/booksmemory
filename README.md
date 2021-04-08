@@ -61,9 +61,9 @@ Technologies used:
 - PrimeNG
 
 ## :link: Public links
-- [Front](#) - WIP : coming soon
-- [API](#) - WIP : coming with Developer Portal
-- [Developer Portal](#) - WIP : coming with API
+- [Front](#) - **WIP** : coming soon
+- [API](#) - **WIP** : coming with Developer Portal
+- [Developer Portal](#) - **WIP** : coming with API
 
 ## :busts_in_silhouette: Authors
 - [Adrien MARTINEAU](https://github.com/WaZeR-Adrien)
