@@ -51,14 +51,14 @@ This module allows us to manipulate all information relating to books, like the 
 
 Technologies used:
 - Angular
-- PrimeNG
+- Nebular
 
 ### BooksMemoryDevPortal
 The developer portal allows developers to register in order to retrieve an API key and manage their API call quota. They thus have access to the list of calls made via their API key.
 
 Technologies used:
 - Angular
-- PrimeNG
+- Nebular
 
 ## :link: Public links
 - [Front](#) - **WIP** : coming soon
